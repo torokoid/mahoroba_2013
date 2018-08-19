@@ -34,7 +34,7 @@ body { background-color: #ccffcc; }
 <h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <h3>2013年の記録</h3>
-<a href="mahoroba/0126.JPG" class="preview"><img src="mahoroba/0126.JPG" alt="河原でのバーベキュー" width="180" /></a>
+<a href="/mahoroba/0126.JPG" class="preview"><img src="/mahoroba/0126.JPG" alt="河原でのバーベキュー" width="180" /></a>
 <!--
 <img src="https://torokoid.github.io/mahoroba/0126.JPG" alt="河原でのバーベキュー" width="318" height="229" border="0" />
 <img src="https://torokoid.github.io/mahoroba/1171.JPG" alt="" width="318" height="229" border="0" />
