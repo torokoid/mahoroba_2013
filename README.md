@@ -62,8 +62,9 @@ a.p:hover span {
 <body>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee>
+
 <h3>2013年の記録</h3>
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0126.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0126.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="280" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0126.JPG" alt="Link拡大"></span></a>
