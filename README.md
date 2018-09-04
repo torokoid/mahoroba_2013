@@ -79,10 +79,10 @@ a.p:hover span {
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/1188.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/1188.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="280" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/1188.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0138.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0138.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="280" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0138.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0138.JPG" alt="SMBnwgw_mailtop2.jpg" height="280" width="210" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0138.JPG" alt="Link拡大"></span></a>
 
-<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/1193.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/1193.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="280" constrain="true" imagepreview="false">
+<SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/1193.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/1193.JPG" alt="SMBnwgw_mailtop2.jpg" height="280" width="210" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/1193.JPG" alt="Link拡大"></span></a>
 
 <!--
