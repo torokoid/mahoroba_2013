@@ -61,8 +61,9 @@ a.p:hover span {
 
 <body>
 
-<h1><span class="red"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 !!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3>2013年の記録</h3>
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/0126.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/0126.JPG" alt="SMBnwgw_mailtop2.jpg" height="210" width="280" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/0126.JPG" alt="Link拡大"></span></a>
@@ -85,6 +86,7 @@ a.p:hover span {
 <SPAN style="margin-left:20px "><a href="https://torokoid.github.io/mahoroba/1193.JPG" target="_blank" class="p"><img src="https://torokoid.github.io/mahoroba/1193.JPG" alt="SMBnwgw_mailtop2.jpg" height="280" width="210" constrain="true" imagepreview="false">
 <span><img src="https://torokoid.github.io/mahoroba/1193.JPG" alt="Link拡大"></span></a>
 
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <a href="/mahoroba/0126.JPG" class="preview"><img src="/mahoroba/0126.JPG" alt="河原でのバーベキュー" width="450" /></a>
 <a href="/mahoroba/1171.JPG" class="preview"><img src="/mahoroba/1171.JPG" alt="河原でのバーベキュー" width="450" /></a>
