@@ -62,6 +62,8 @@ a.p:hover span {
 <body>
 
 <h1><span class="yellow"><marquee behavior="alternate">!!! まほろばの湯 2013/09/29 !!!</marquee></span></h1>
+<div style="background-color:rgb(255,255,255,0.5);">
+<p class="topicpath"><a href="https://torokoid.github.io/mahoroba/">TOP</a>&gt;mahoroba_2013</p></div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee>
 
